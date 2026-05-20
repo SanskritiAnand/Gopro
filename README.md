@@ -1,6 +1,8 @@
 # AuthKit — Full Stack Authentication System
 
 > A production-style signup/login system with bcrypt password security and JWT token authentication.
+>
+> A polished dark-mode auth interface with protected profile access, inline form validation, and modern UX.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
